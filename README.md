@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prakash Dubey, currently pursuing my bachelor's degree in information technology from GTU
+👋🏻 Hey, I’m Prakash Dubey, currently pursuing my bachelor's degree in information technology from GTU
 Having a keen interest in open-source programs 
 
 <!---
